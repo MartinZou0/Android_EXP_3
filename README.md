@@ -209,7 +209,7 @@ padding是站在父view的角度，是自己的内容与其父控件的边之间
 layout_alignParentEnd与layout_alignParentStart所表示的是与父布局的左边与右边对齐（大部分的国家是从左往右开始，少部分国家为从右往左）
 
 实现的效果为
-<div align=""center>
+<div align="center">
 <img src="https://github.com/MartinZou0/Android_EXP_3/blob/master/SceenShot/%E5%AE%9E%E9%AA%8C3%E6%88%AA%E5%9B%BE2.png" width="300"/>
 </div>
 
