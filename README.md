@@ -34,8 +34,9 @@ LinearLayout是一个试图组，用于使所有自试图在单个方向（垂�
 下面贴上实现效果图与代码
 
 效果图为：
-
-<img src="E:\Typora文档\Andorid截图\实验3\实验3截图1.png" width="300"/>
+<div align=center>
+<img src="https://github.com/MartinZou0/Android_EXP_3/blob/master/SceenShot/%E5%AE%9E%E9%AA%8C3%E6%88%AA%E5%9B%BE1.png" width="300"/>
+</div>
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -208,8 +209,9 @@ padding是站在父view的角度，是自己的内容与其父控件的边之间
 layout_alignParentEnd与layout_alignParentStart所表示的是与父布局的左边与右边对齐（大部分的国家是从左往右开始，少部分国家为从右往左）
 
 实现的效果为
-
-<img src="E:\Typora文档\Andorid截图\实验3\实验3截图2.png" width="300"/>
+<div align=""center>
+<img src="https://github.com/MartinZou0/Android_EXP_3/blob/master/SceenShot/%E5%AE%9E%E9%AA%8C3%E6%88%AA%E5%9B%BE2.png" width="300"/>
+</div>
 
 代码为
 
@@ -323,7 +325,7 @@ TableLayout以行和列的形式对控件进行管理，每一行为一个TableR
 
 实现效果如下：
 
-<img src="E:\Typora文档\Andorid截图\实验3\实验3截图3.png" width="300"/>
+<div align="center"><img src="https://github.com/MartinZou0/Android_EXP_3/blob/master/SceenShot/%E5%AE%9E%E9%AA%8C3%E6%88%AA%E5%9B%BE3.png" width="300"/></div>
 
 实现代码如下:
 
